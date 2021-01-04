@@ -1,5 +1,5 @@
 # BombHackQuiz
-![alt text](https://github.com/Koki-Chance/BombHackQuiz/blob/main/images/Screenshot%20from%202021-01-04%2021-44-43.png?raw=true)
+![alt text](https://github.com/Koki-Chance/BombHackQuiz/blob/main/images/Screenshot%20from%202021-01-04%2021-44-43.png)
 ## 
 
 # Getting Started
