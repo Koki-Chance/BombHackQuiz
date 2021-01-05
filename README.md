@@ -21,7 +21,7 @@ In the app, you'll see flutter widget like...
 - 
 - 
 
-# How to activate "BombHackQuiz"
+# How to run the app
 Only thing you have to do to see how the app works is copying the code and pasting them on to DartPad. And press the "Run" button. Using DartPad, neither environment setting nor deployment is required to activate the app.
 To access to DartPad, please click the link down below. 
 https://www.dartpad.dev/
